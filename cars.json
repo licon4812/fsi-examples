@@ -1,0 +1,32 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "colour": "Blue"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "colour": "Black"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "colour": "Red"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2018,
+        "colour": "White"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "colour": "Silver"
+    }
+]
