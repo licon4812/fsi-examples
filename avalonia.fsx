@@ -62,4 +62,5 @@ module Program =
     let main (args: string[]) =
         AppBuilder.Configure<App>().UsePlatformDetect().UseSkia().StartWithClassicDesktopLifetime(args)
 
+printfn "Starting Avalonia... on dotnet version: %s" (System.Environment.Version.ToString())
 Program.main fsi.CommandLineArgs
